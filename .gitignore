@@ -13,3 +13,59 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Gradle
+.gradle/
+build/
+
+# Local config / secrets
+local.properties
+gradle.properties
+google-services.json
+
+# IDE files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Keystores (VERY IMPORTANT)
+*.jks
+*.keystore
+
+# NDK / external builds
+.externalNativeBuild/
+.cxx/
+
+# Captures / generated media (optional, if you don’t want sample data public)
+captures/
+recording_*/
+
+# Gradle
+.gradle/
+build/
+
+# Local config / secrets
+local.properties
+gradle.properties
+google-services.json
+
+# IDE
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Keystores (critical)
+*.jks
+*.keystore
+
+# NDK / external builds
+.externalNativeBuild/
+.cxx/
+
+# Generated captures (optional)
+captures/
+recording_*/
+
