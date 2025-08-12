@@ -1,0 +1,9 @@
+<resources>
+    <color name="colorPrimary">#FFFFFF</color> <!-- White -->
+    <color name="colorPrimaryDark">#F5F5F5</color> <!-- Slightly darker white for status bar -->
+    <color name="colorAccent">#D32F2F</color> <!-- Material Red 700 -->
+
+    <!-- For drawer text -->
+    <color name="drawerText">#000000</color> <!-- Black -->
+    <color name="drawerSelectedBg">#FFD6D6</color> <!-- Light red background -->
+</resources>
